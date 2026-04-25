@@ -35,7 +35,7 @@ Models tested:
 
 ## Results
 Random Forest achieved the best performance with the highest accuracy and ROC-AUC score.
-
+![Results](images/6_model_comparison_dashboard.png)
 ## Project Information
 Group project – Topik Khusus Sains Data  
 Institut Teknologi Bandung
